@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/canerergun/canerergun/blob/main/Jr.%20Data%20Scientist.png)
+![MasterHead](https://github.com/canerergun/canerergun/blob/main/img/Jr.%20Data%20Scientist.png)
 ![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
 <div align="center">
  <a href="https://github.com/canerergun">
@@ -68,9 +68,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="canerergun" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -81,9 +81,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=material-palenight&hide_border=false" alt="canerergun" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
  
@@ -95,9 +95,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="canerergun" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
  
