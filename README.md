@@ -1,4 +1,6 @@
+<!-- 
 ![MasterHead](https://github.com/canerergun/canerergun/blob/main/img/Jr.%20Data%20Scientist.png)
+-->
 ![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
 <div align="center">
  <a href="https://github.com/canerergun">
