@@ -118,7 +118,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&size=center&base=1000)
+![](https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&size=center&base=1000&abbreviated=true)
 
 
 <br />
