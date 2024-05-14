@@ -1,7 +1,7 @@
 <!-- 
 ![MasterHead](https://github.com/canerergun/canerergun/blob/main/img/Jr.%20Data%20Scientist.png)
 -->
-![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
+
 <div align="center">
  <a href="https://github.com/canerergun">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Caner+Ergün+%e2%9c%a8;%f0%9f%93%9a+Jr.+Data+Scientist+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -113,7 +113,7 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=canerergun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
 
 <br />
 
