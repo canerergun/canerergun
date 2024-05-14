@@ -119,7 +119,10 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&size=center&base=1000&abbreviated=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&base=1000&abbreviated=true" alt="Profile Views Counter">
+</p>
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
