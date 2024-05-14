@@ -53,14 +53,16 @@
 [![Python ile Tekrar Eden Kelimeleri Bulma](https://ytcards.demolab.com/?id=wQsuPo1lILc&title=Python+ile+Tekrar+Eden+Kelimeleri+Bulma&lang=en&timestamp=1710280921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python ile Tekrar Eden Kelimeleri Bulma")](https://www.youtube.com/watch?v=wQsuPo1lILc)
 [![Python ile Toplama](https://ytcards.demolab.com/?id=7fUTdlcWIVY&title=Python+ile+Toplama&lang=en&timestamp=1710205512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python ile Toplama")](https://www.youtube.com/watch?v=7fUTdlcWIVY)
 <!-- END YOUTUBE-CARDS -->
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake.svg">
 </picture>
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 
 
 # 📊 My GitHub Stats
@@ -94,8 +96,6 @@
   </a>
 </p>
  
-
- 
  <br />
  
   
@@ -103,7 +103,9 @@
 
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
-  
+
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats) -->
 
@@ -120,7 +122,8 @@
 
 ![](https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&size=center&base=1000&abbreviated=true)
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 <br />
 
 
