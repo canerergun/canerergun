@@ -66,48 +66,27 @@
 
 # 📊 My GitHub Stats :
 
- <br />
- 
-  <p style="text-align: center">
+<p align="center">
   <a>
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png"> -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="canerergun" />
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png"> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="canerergun" />
   </a>
-</p>
-
-  
-<br />
-
-  <p style="text-align: center">
   <a>
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Left.png"> -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="canerergun" />
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Right.png"> -->
   </a>
 </p>
- 
- <p style="text-align: center">
+<p align="center">
   <a>
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=material-palenight&hide_border=false" alt="canerergun" width="55%" />
-<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png"> -->
   </a>
 </p>
- 
- <br />
- 
-  
-  [![canerergun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canerergun&theme=dracula&custom_title=CanerErgun's%20Github%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![canerergun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canerergun&theme=dracula&custom_title=CanerErgun's%20Github%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- [![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
 
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats) -->
-
 
 
 <br />
