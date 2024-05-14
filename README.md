@@ -10,7 +10,7 @@
 
 <!-- <img src="https://github.com/canerergun/canerergun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right"> -->
 
-
+# 👩‍💻 About Me :
 <h3 align="left">&nbsp; Jr. Data Scientist from Türkiye</h3>
 
 - 🔭 I’m currently working on **Python**
@@ -115,7 +115,6 @@
 <br />
 
 <br />
-# 🏆 GitHub Trophies
 ![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
 <br />
 
