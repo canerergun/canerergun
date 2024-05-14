@@ -8,7 +8,7 @@
  </a>
 </div>
 
-<img src="https://github.com/canerergun/canerergun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<!-- <img src="https://github.com/canerergun/canerergun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right"> -->
 
 
 <h3 align="left">&nbsp; Jr. Data Scientist from Türkiye</h3>
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **canerrergunn@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
 
 # 📱 Connect with me:
 <p align="left">
@@ -64,28 +63,34 @@
 
 
 
-# Github Stats
+# 📊 My GitHub Stats
 
  <br />
  
-  <p align="center">
+  <p style="text-align: center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png">
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png"> -->
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="canerergun" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png">
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png"> -->
   </a>
 </p>
 
   
 <br />
 
-
- 
- <p align="center">
+  <p style="text-align: center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png">
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Left.png"> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="canerergun" />
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Right.png"> -->
+  </a>
+</p>
+ 
+ <p style="text-align: center">
+  <a>
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=material-palenight&hide_border=false" alt="canerergun" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png">
+<!--     <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Right.png"> -->
   </a>
 </p>
  
@@ -95,15 +100,9 @@
  
   
   
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="canerergun" />
-    <img heigth="160" width="182" src="https://github.com/canerergun/canerergun/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
- 
-  
+
+
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
   
  <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats)
@@ -111,10 +110,13 @@
 
 
 <br />
-
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=canerergun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
+<br />
 
+<br />
+# 🏆 GitHub Trophies
+![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
 <br />
 
 
