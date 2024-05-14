@@ -99,24 +99,26 @@
  <br />
  
   
-  
+  [![canerergun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canerergun&theme=dracula&custom_title=CanerErgun's%20Github%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
   
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats)
--->
+
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats) -->
+
 
 
 <br />
+
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=canerergun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-<br />
 
-<br />
-![](https://komarev.com/ghpvc/?username=canerergun&color=blue)
-<br />
+![](https://github-profile-trophy.vercel.app/?username=canerergun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+![](https://komarev.com/ghpvc/?username=canerergun&color=blue&style=flat-square&size=center&base=1000)
 
 
 <br />
