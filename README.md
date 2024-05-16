@@ -66,28 +66,31 @@
 
 # 📊 My GitHub Stats :
 
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="canerergun" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="canerergun" />
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=material-palenight&hide_border=false" alt="canerergun" width="55%" />
-  </a>
-</p>
-
-[![canerergun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canerergun&theme=dracula&custom_title=CanerErgun's%20Github%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/canerergun?theme=unicorn)](https://leetcode.com/canerergun/)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/canerergun/github-readme-stats) -->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&theme=dark" alt=canerergun />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=canerergun&show_icons=true&locale=en&theme=dark" alt="canerergun" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=dark" alt="canerergun" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/canerergun">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canerergun&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canerergun&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canerergun&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canerergun&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canerergun&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=canerergun&theme=xcode"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <br />
 
