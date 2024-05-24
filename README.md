@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<img src="https://github.com/canerergun/canerergun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<!-- <img src="https://github.com/canerergun/canerergun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right"> -->
 
 # 👩‍💻 About Me :
 ### Jr. Data Scientist from Türkiye
