@@ -70,7 +70,7 @@
 ## 📊 Caner Ergün'ün GitHub Aktivite Analizi  
 
 ### 1. Genel Aktivite, Yetkinlikler ve İlgi Alanları:
-- **📁 Toplam 16 halka açık deposu** bulunuyor, bu da GitHub üzerinde iyi bir aktivite düzeyini gösteriyor.  
+- **📁 Toplam 19 halka açık deposu** bulunuyor, bu da GitHub üzerinde iyi bir aktivite düzeyini gösteriyor.  
 - **🛠️ Yetkinlikleri ve ilgi alanları** profilde belirtilmemiş olsa da oluşturduğu projelerden alanlarına dair fikir sahibi olunabiliyor.  
 - **⭐ En çok yıldız alan deposu:** [WeatherApp](https://github.com/canerergun/WeatherApp), hava durumu uygulamaları geliştirmeye ilgisini gösteriyor.  
 - **🎮 Oyun geliştirme ilgisi**, [SnakeGame](https://github.com/canerergun/SnakeGame) ve [HangmanGame](https://github.com/canerergun/HangmanGame) projelerinde açıkça görülüyor.  
