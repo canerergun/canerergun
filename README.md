@@ -1,6 +1,6 @@
 # Caner Ergün
 
-![Hit Counter](https://img.shields.io/badge/Visitors-5728-brightgreen)
+![Hit Counter](https://img.shields.io/badge/Visitors-1387-brightgreen)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/devseu)](https://twitter.com/devseu)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devseu/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/devseu/)](https://www.instagram.com/devseu)
