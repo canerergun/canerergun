@@ -1,11 +1,12 @@
 # Caner Ergün
 
 ![Hit Counter](https://img.shields.io/badge/Visitors-1387-brightgreen)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/devseu)](https://twitter.com/devseu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devseu/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/devseu/)](https://www.instagram.com/devseu)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:canerrergunn@gmail.com)
-[![Github](https://img.shields.io/github/followers/canerergun?label=Follow&style=social)](https://github.com/canerergun)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/devseu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devseu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/devseu)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:canerrergunn@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/canerergun?label=Follow&style=social)](https://github.com/canerergun)
+
 
 
 - 💻 [**Caner Ergün**](https://github.com/canerergun) GitHub profilimde Python ve Yapay Zeka odaklı projeler geliştiriyorum. Güncel içerikler için profilimi takip edebilirsiniz.
