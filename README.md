@@ -1,78 +1,76 @@
-# Merhaba! 👋
+# 👋 Merhaba
 
-
-![Visitors](https://img.shields.io/badge/Visitors-1387-brightgreen)
-
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/devseu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devseu/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/devseu)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:canerrergunn@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/canerergun?label=Follow&style=social)](https://github.com/canerergun)
-
----
-
-## 🔭 Hakkımda
-
-- 💻 GitHub profilimde Python ve Yapay Zeka odaklı projeler geliştiriyorum.  
-- 🔭 Şu anki odağım: Yapay zeka tabanlı sesli asistan geliştirmek.  
-- 🌱 Öğrenme yolculuğum: Veri Bilimi ve Derin Öğrenme üzerine çalışıyorum.  
-- ⚡ Hobilerim: Python, Makine Öğrenimi ve Yapay Zeka içerikleri üretmek.  
-- 📫 Bana ulaşmak için: **canerrergunn@gmail.com**  
+![Visitors](https://img.shields.io/badge/Visitors-1387-brightgreen?style=flat-square)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/devseu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devseu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/devseu)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:canerrergunn@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/canerergun?label=Takip%20Et&style=social)](https://github.com/canerergun)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/canerergun)
 
 ---
 
-## 🖥 Yetkinliklerim
+## 🧠 Hakkımda
 
-- Python Programlama  
-- Veri Bilimi  
-- Makine Öğrenimi  
-- Derin Öğrenme  
-- Doğal Dil İşleme  
-- Bilgisayarla Görme  
-- Yapay Zeka  
-- Git & GitHub  
-- API Kullanımı ve Entegrasyon  
-- Veritabanı Yönetimi (SQLite, JSON)  
+- 💻 GitHub profilimde **Python** ve **Yapay Zeka** odaklı projeler geliştiriyorum.  
+- 🔭 Şu anda **Yapay Zeka tabanlı sesli asistan** projesi üzerinde çalışıyorum.  
+- 🌱 Öğrenme alanım: **Veri Bilimi** & **Derin Öğrenme**.  
+- ⚡ İlgi alanlarım: Makine Öğrenimi, NLP ve Bilgisayarla Görme.  
+- 📫 Bana ulaşmak için: **[canerrergunn@gmail.com](mailto:canerrergunn@gmail.com)**  
 
 ---
 
-## ⚙️ Teknolojik Araçlar
+## 🧩 Teknik Yetenekler
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=353535) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=social&logo=TensorFlow&color=353535) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=social&logo=PyTorch&color=353535) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=social&logo=Scikit-Learn&color=353535) 
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=social&logo=SQLite&color=353535) 
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=social&logo=Pandas&color=353535) 
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=social&logo=Numpy&color=353535) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=social&logo=Matplotlib&color=353535) 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=social&logo=Flask&color=353535) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=353535) 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=353535) 
-![PyCharm](https://img.shields.io/badge/-Pycharm-05122A?style=social&logo=Pycharm&color=353535)
+### 💻 Programlama ve Yapay Zeka
+Python · TensorFlow · PyTorch · Scikit-Learn · Pandas · Numpy · Matplotlib
+
+### ⚙️ Web & Backend
+Flask · Django · API Entegrasyonu · Veritabanı (SQLite, JSON)
+
+### 🧰 Araçlar
+Git · GitHub · VS Code · PyCharm
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## ⚙️ Teknolojik Araç Rozetleri
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=canerergun&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-  />
+---
 
-  <img 
-    width="48%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun" 
-    alt="GitHub Streak" 
-  />
+## 📊 GitHub & LeetCode İstatistiklerim
 
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=canerergun&show_icons=true" 
-    alt="GitHub Stats" 
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=canerergun&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=canerergun&theme=tokyonight" width="45%" alt="GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/canerergun?theme=dark&font=Fira%20Code&ext=activity" width="45%" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🚀 Hedeflerim
+
+- 🤖 Kendi **yapay zeka asistanımı** geliştirmek  
+- 📚 **Veri bilimi** alanında uzmanlaşmak  
+- 🌍 Açık kaynak projelere aktif katkı sağlamak  
+- 🧩 LeetCode üzerinde algoritma becerilerimi geliştirmek  
+
+---
+
+⭐ **Eğer projelerimi beğendiysen, destek olmak için bir yıldız bırakmayı unutma!** ⭐
