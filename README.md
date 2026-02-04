@@ -54,12 +54,10 @@
 ## 📊 İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canerergun&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canerergun&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerergun&layout=compact&theme=tokyonight" width="48%" />
   <img src="https://leetcard.jacoblin.cool/canerergun?theme=dark&font=Fira%20Code" width="48%" />
 </p>
 
