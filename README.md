@@ -43,15 +43,11 @@
 ---
 
 ## 🐍 Katkı Yılanı (Contribution Snake)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/canerergun/canerergun/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-> **Not:** Yılanın hareket etmesi için `.github/workflows` altına yılan oluşturma "action"ını eklemeyi unutma! Eğer eklemezsen bu alan boş görünebilir.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canerergun/canerergun/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/canerergun/canerergun/output/github-snake.svg" />
+</picture>
 
 ---
 
